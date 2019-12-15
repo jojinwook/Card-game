@@ -102,7 +102,7 @@ public class Main {
 		bw.flush();    
 	}
 }
-
+####
 class Player {
 	private String name;
 	private int hp = 10;
